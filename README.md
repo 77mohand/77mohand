@@ -25,7 +25,7 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=77mohand&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
