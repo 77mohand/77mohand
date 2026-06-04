@@ -9,7 +9,7 @@
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br> 
 </details> 
  
-![Totals Hits](https://komarev.com/ghpvc/?username=mohandamrx&style=flat&color=orange&label=PROFILE+VIEWS) 
+![Totals Hits](https://komarev.com/ghpvc/?username=77mohand&style=flat&color=orange&label=PROFILE+VIEWS) 
 
 <br>
 
