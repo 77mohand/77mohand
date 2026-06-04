@@ -1,92 +1,136 @@
-<div align="center">
+<div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-# Hey 👋 I'm Mohand Amr
+<h1>Hi, I'm Mohand Amr 👋</h1>
 
-### Flutter Developer • Content Creator • Mobile Developer 🚀
+<h3>Flutter Developer • Content Creator • Builder</h3>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
+<p>
+Building mobile apps with Flutter, sharing my journey on YouTube & Instagram, and documenting everything I learn.
+</p>
 
-### 🌐 Connect With Me
+![Profile Views](https://komarev.com/ghpvc/?username=77mohand\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://mohandzenix.netlify.app/)
-[![YouTube](https://img.shields.io/badge/Youtube-Subscribe-red?style=for-the-badge\&logo=youtube)](https://www.youtube.com/@mohandamrx)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge\&logo=instagram)](https://www.instagram.com/mohandamrx/)
-[![GitHub](https://img.shields.io/badge/Github-77mohand-black?style=for-the-badge\&logo=github)](https://github.com/77mohand)
-![](https://komarev.com/ghpvc/?username=77mohand\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+<a href="https://mohandzenix.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-blue?style=flat&logo=google-chrome">
+</a>
+
+<a href="https://www.youtube.com/@mohandamrx">
+<img src="https://img.shields.io/badge/YouTube-MohandAmrX-red?style=flat&logo=youtube">
+</a>
+
+<a href="https://www.instagram.com/mohandamrx/">
+<img src="https://img.shields.io/badge/Instagram-@mohandamrx-purple?style=flat&logo=instagram">
+</a>
 
 </div>
 
----
+<hr>
 
-# 🚀 About Me
+## 🚀 Tools I Use
 
-* 📱 Flutter Developer
-* 💻 Working with Dart, Python & C++
-* 🎥 Creating Content on YouTube & Instagram
-* ⚡ Love Building Apps
-* 🎯 Always learning new tech
-
----
-
-# 🛠 Tech Stack
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat\&logo=Flutter\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat\&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat\&logo=firebase)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat\&logo=visualstudiocode)
-
----
-
-## 👨‍💻 About.dart
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat\&logo=python\&logoColor=darkgreen)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat\&logo=firebase\&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat\&logo=git\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visual-studio-code)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat\&logo=android-studio\&logoColor=white)
 
 ```dart
-class MohandAmr {
+class AboutMe {
 
-  final username = "77mohand";
+  final name = "Mohand Amr";
 
-  final skills = {
+  final role = [
+    "Flutter Developer",
+    "Content Creator"
+  ];
 
-    "Flutter" : ["Dart"],
+  final languages = [
+    "Dart",
+    "Python",
+    "C++"
+  ];
 
-    "Languages" : [
-      "Python",
-      "C++"
-    ],
+  final interests = [
+    "Mobile Development",
+    "Building Products",
+    "Startups",
+    "Technology",
+    "Content Creation"
+  ];
 
-    "Tools" : [
-      "Firebase",
-      "Git",
-      "VSCode"
-    ]
-
-  };
-
+  final currentFocus = [
+    "Flutter Apps",
+    "AI Tools",
+    "Automation",
+    "Business Systems"
+  ];
 }
 ```
 
----
+* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   Currently building **Flutter applications and digital products**.<br>
 
-# 📊 GitHub Stats
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />     Passionate about **technology, startups and product building**.<br>
+
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />    Ask me about **Flutter, Dart, Python or Content Creation**.<br>
+
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Website: **https://mohandzenix.netlify.app/**<br>
+
+* ⚡ Fun Fact: I enjoy building products more than writing isolated code.
+
+---
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=77mohand&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=77mohand&show_icons=true&theme=tokyonight" width="49%">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77mohand&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=77mohand&theme=tokyonight" width="49%">
 
 </div>
 
+<details>
+<summary>More Stats</summary>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=77mohand&theme=tokyonight">
+
+</details>
+
+<hr>
+
+## 🎥 Content Creation
+
+I create content about:
+
+* Flutter Development
+* Programming
+* Technology
+* AI & Automation
+* Building Projects
+* Entrepreneurship Journey
+
 ---
 
-<div align="center">
+## 🌍 Connect With Me
 
-### Thanks For Visiting ❤️
+* 🌐 Website: https://mohandzenix.netlify.app/
+* 📺 YouTube: https://www.youtube.com/@mohandamrx
+* 📸 Instagram: https://www.instagram.com/mohandamrx/
 
-Code • Create • Build
+---
+
+### Code Cycle 😅
+
+😵 → 🐛 Bug Found
+
+😌 → Fixed
+
+😲 → It works... but why?
 
 </div>
