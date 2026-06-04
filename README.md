@@ -1,11 +1,9 @@
 <div align="center"> 
  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br> 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>   
  
- 
-![Totals Hits](https://komarev.com/ghpvc/?username=77mohand&style=flat&color=orange&label=PROFILE+VIEWS) 
-
+![Totals Hits](https://komarev.com/ghpvc/?username=77mohand&style=flat&color=orange&label=PROFILE+VIEWS)
 <br>
 
 <!-- روابط حساباتك وموقعك -->
@@ -45,7 +43,7 @@ class MohandAmr extends Me implements FlutterDeveloper, ContentCreator {
     "Core" : { "Flutter", "Dart" }, 
     "OtherLanguages" : { "Python", "C++" }, 
     "Database" : { "Firebase", "Sqlite" }, 
-    "Editors" : { "VS Code", "Android Studio", "Visual Studio", "PyCharm " }, 
+    "Editors" : { "VS Code", "Android Studio", "Visual Studio", "PyCharm" }, 
     "Design" : { "Figma", "Photoshop" }, 
     "Content" : { "YouTube", "Instagram" } 
   }; 
