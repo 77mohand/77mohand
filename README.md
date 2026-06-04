@@ -1,95 +1,143 @@
 ````html
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
 
 <h1>Hi 👋, I'm Mohand Amr</h1>
 
-<h3>Flutter Developer 📱 | Content Creator 🎥 | Tech Enthusiast 🚀</h3>
-
-<a href="https://mohandzenix.netlify.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-blue?style=for-the-badge">
-</a>
-
-<a href="https://www.youtube.com/@mohandamrx">
-<img src="https://img.shields.io/badge/YouTube-MohandAmrX-red?style=for-the-badge&logo=youtube">
-</a>
-
-<a href="https://www.instagram.com/mohandamrx/">
-<img src="https://img.shields.io/badge/Instagram-mohandamrx-purple?style=for-the-badge&logo=instagram">
-</a>
-
-<br><br>
+<h3>Flutter Developer • Content Creator • Tech Enthusiast</h3>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 
+<br>
+
+<a href="https://mohandzenix.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=google-chrome">
+</a>
+
+<a href="https://www.youtube.com/@mohandamrx">
+  <img src="https://img.shields.io/badge/YouTube-MohandAmrX-red?style=for-the-badge&logo=youtube">
+</a>
+
+<a href="https://www.instagram.com/mohandamrx/">
+  <img src="https://img.shields.io/badge/Instagram-@mohandamrx-purple?style=for-the-badge&logo=instagram">
+</a>
+
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=77mohand&style=flat&color=orange&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=orange" />
 
 </div>
 
 <hr>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
+<h2>🚀 About Me</h2>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+<ul>
+<li>📱 Flutter Developer building cross-platform mobile applications.</li>
+<li>🎥 Content Creator on YouTube & Instagram.</li>
+<li>💡 Passionate about Mobile Development and Technology.</li>
+<li>🌱 Currently improving my skills in Flutter Architecture & Backend Integration.</li>
+<li>🎯 Goal: Build useful apps and share knowledge with developers.</li>
+</ul>
+
+<hr>
+
+<h2>🛠️ Tech Stack</h2>
+
+<p>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
+
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
+
+<img src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
+
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white">
+
+</p>
+
+<hr>
+
+<h2>💻 About Me in Code</h2>
 
 ```dart
-class AboutMe extends Developer {
+class MohandAmr {
 
-  final String name = "Mohand Amr";
+  final String role = "Flutter Developer";
 
-  final List<String> roles = [
-    "Flutter Developer",
-    "Content Creator",
-    "UI Designer"
-  ];
-
-  final List<String> skills = [
-    "Flutter",
+  final List<String> languages = [
     "Dart",
-    "Firebase",
-    "REST APIs",
-    "Git",
-    "Figma"
+    "C",
+    "C++",
+    "Python",
+    "HTML"
   ];
 
-  final Map<String, String> socials = {
-    "Portfolio": "https://mohandzenix.netlify.app/",
-    "YouTube": "https://www.youtube.com/@mohandamrx",
-    "Instagram": "https://www.instagram.com/mohandamrx/"
-  };
+  final List<String> tools = [
+    "Flutter",
+    "Firebase",
+    "Git",
+    "Figma",
+    "VS Code"
+  ];
+
+  final List<String> interests = [
+    "Mobile Development",
+    "Content Creation",
+    "Technology"
+  ];
 }
 ````
 
-* 📱 I build cross-platform mobile apps using **Flutter**.
-* 🎥 I create tech and programming content on **YouTube**.
-* 🚀 Passionate about mobile development and modern UI design.
-* 💡 Always learning new technologies and sharing knowledge.
-* 🌐 Portfolio: **https://mohandzenix.netlify.app/**
-* 📺 YouTube: **https://www.youtube.com/@mohandamrx**
-* 📸 Instagram: **https://www.instagram.com/mohandamrx/**
+<hr>
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+🌐 Portfolio:
+<a href="https://mohandzenix.netlify.app/">
+https://mohandzenix.netlify.app/
+</a>
+</p>
+
+<p>
+📺 YouTube:
+<a href="https://www.youtube.com/@mohandamrx">
+@mohandamrx
+</a>
+</p>
+
+<p>
+📸 Instagram:
+<a href="https://www.instagram.com/mohandamrx/">
+@mohandamrx
+</a>
+</p>
+
+<hr>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -97,15 +145,11 @@ class AboutMe extends Developer {
 
 <div align="center">
 
-### 🚀 Code Cycle
+<h3>⚡ Fun Fact</h3>
 
-😵‍💫 Fix Bug → 😃 Works → 🤔 Don't Touch It Again
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="80">
-
-<h3>Thanks for visiting my profile ❤️</h3>
+<p>
+I build apps with Flutter 📱 and create content to help other developers grow 🚀
+</p>
 
 </div>
 ```
