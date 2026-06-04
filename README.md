@@ -1,128 +1,111 @@
-<div align="center">
+````html
+<div align="center" width="50">
 
-# Hi, I'm Mohand Amr 👋
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello" width="60%"/> <br>
 
-### Flutter Developer • Tech Entrepreneur • Content Creator
+<h1>Hi 👋, I'm Mohand Amr</h1>
 
-Building digital products, AI solutions, automation systems, and documenting the journey publicly.
+<h3>Flutter Developer 📱 | Content Creator 🎥 | Tech Enthusiast 🚀</h3>
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
+<a href="https://mohandzenix.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-blue?style=for-the-badge">
+</a>
 
-<br>
+<a href="https://www.youtube.com/@mohandamrx">
+<img src="https://img.shields.io/badge/YouTube-MohandAmrX-red?style=for-the-badge&logo=youtube">
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohandAmr&color=blue)
+<a href="https://www.instagram.com/mohandamrx/">
+<img src="https://img.shields.io/badge/Instagram-mohandamrx-purple?style=for-the-badge&logo=instagram">
+</a>
+
+<br><br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
----
+<hr>
 
-## 🚀 About Me
-
-I'm a Flutter developer and founder of **Zenix TC**.
-
-I build software, AI systems, automation workflows, and digital solutions that help businesses grow.
-
-Alongside development, I create educational content about:
-
-- Mobile Development
-- Flutter & Dart
-- AI & Automation
-- Entrepreneurship
-- Building Startups
-- Productivity Systems
-
-My goal is simple:
-
-> Build real products that solve real problems and share everything I learn along the way.
-
----
-
-## 🛠 Tech Stack
-
-### Mobile Development
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
-### Backend & Automation
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
-![AI](https://img.shields.io/badge/AI-000000?style=flat)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-## 💻 Current Focus
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 ```dart
-class MohandAmr {
+class AboutMe extends Developer {
 
-  final role = [
+  final String name = "Mohand Amr";
+
+  final List<String> roles = [
     "Flutter Developer",
-    "Founder @ Zenix TC",
-    "Content Creator"
+    "Content Creator",
+    "UI Designer"
   ];
 
-  final building = [
-    "Mobile Applications",
-    "AI Chatbots",
-    "AI Agents",
-    "Business Automation Systems",
-    "SaaS Products"
+  final List<String> skills = [
+    "Flutter",
+    "Dart",
+    "Firebase",
+    "REST APIs",
+    "Git",
+    "Figma"
   ];
 
-  final learning = [
-    "System Design",
-    "AI Engineering",
-    "Product Building",
-    "Business Growth"
-  ];
+  final Map<String, String> socials = {
+    "Portfolio": "https://mohandzenix.netlify.app/",
+    "YouTube": "https://www.youtube.com/@mohandamrx",
+    "Instagram": "https://www.instagram.com/mohandamrx/"
+  };
 }
-```
+````
 
----
-
-## 🎥 Content
-
-I document my journey of:
-
-- Learning Programming
-- Building Products
-- Growing a Technology Company
-- Solving Real Business Problems
-- Sharing Technical Knowledge
-
----
-
-## 📈 GitHub Stats
+* 📱 I build cross-platform mobile apps using **Flutter**.
+* 🎥 I create tech and programming content on **YouTube**.
+* 🚀 Passionate about mobile development and modern UI design.
+* 💡 Always learning new technologies and sharing knowledge.
+* 🌐 Portfolio: **https://mohandzenix.netlify.app/**
+* 📺 YouTube: **https://www.youtube.com/@mohandamrx**
+* 📸 Instagram: **https://www.instagram.com/mohandamrx/**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" width="48%">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight">
 
 </div>
 
----
+<hr>
 
-## 🌍 Connect With Me
+<div align="center">
 
-- YouTube
-- Instagram
-- LinkedIn
-- GitHub
+### 🚀 Code Cycle
 
----
+😵‍💫 Fix Bug → 😃 Works → 🤔 Don't Touch It Again
 
-### ⚡ Fun Fact
+<br>
 
-I don't just enjoy writing code.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="80">
 
-I enjoy turning ideas into products.
+<h3>Thanks for visiting my profile ❤️</h3>
+
+</div>
+```
