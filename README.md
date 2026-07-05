@@ -4,10 +4,13 @@
 
 <h1>Hi, I'm Mohand Amr 👋</h1>
 
-<h3>Flutter Developer • Content Creator • Builder</h3>
+<h3>Full Stack Developer • Content Creator </h3>
 
 <p>
-Building mobile apps with Flutter, sharing my journey on YouTube & Instagram, and documenting everything I learn.
+I'm a programming student obsessed with computers and how they work under the hood. 
+I enjoy building real projects, exploring low-level systems, and understanding the "why" behind every abstraction.
+Most of my time goes into learning, experimenting, breaking things, and building them again.
+sharing my journey on YouTube & Instagram, and documenting everything I learn.
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=77mohand\&style=flat\&color=orange\&label=PROFILE+VIEWS)
@@ -51,9 +54,13 @@ class AboutMe {
   ];
 
   final languages = [
+    "C",
+    "C++",
     "Dart",
     "Python",
-    "C++"
+    "Java Script",
+    "HTML",
+    "CSS",
   ];
 
   final interests = [
