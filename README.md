@@ -78,15 +78,18 @@ class AboutMe {
 }
 ```
 
-* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   Currently building **Flutter applications and digital products**.<br>
 
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />     Passionate about **technology, startups and product building**.<br>
+* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   Currently building **C++ tools, experimenting with low-level programming, and learning Computer Science**.<br>
 
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />    Ask me about **Flutter, Dart, Python or Content Creation**.<br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    Passionate about **computer science, systems programming, technology, and building products from scratch**.<br>
 
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Website: **https://mohandzenix.netlify.app/**<br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about **C++, Computer Science, low-level programming, or building developer tools**.<br>
 
-* ⚡ Fun Fact: I enjoy building products more than writing isolated code.
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Website: **https://mohandzenix.netlify.app/**<br>
+
+* ⚡ Fun Fact: I enjoy understanding how computers work under the hood and building things from scratch.
+  
+
 
 ---
 
