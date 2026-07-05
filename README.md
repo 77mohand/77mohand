@@ -49,7 +49,7 @@ class AboutMe {
   final name = "Mohand Amr";
 
   final role = [
-    "Flutter Developer",
+    "Full Stack Developer",
     "Content Creator"
   ];
 
